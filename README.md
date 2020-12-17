@@ -6,3 +6,4 @@ It can be expanded even if there are tens of thousands of fields.
 Structure field names are decompose as follows: 
 
 ##### [elem_name] = findFiledOfStruct(SAMPLESTR,'SAMPLESTR')
+#####
